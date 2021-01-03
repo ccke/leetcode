@@ -19,6 +19,12 @@
 
 **只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。**
 
+## :information_desk_person:订阅公众号
+
+有些内容只在公众号发布，因此大家觉得内容不错的话，可以关注一下。如果再给 ➕ 个星标就更棒啦！
+
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
+
 ## :newspaper: &nbsp;订阅
 
 大家可以用 Github 提供的 [RSS](https://github.com/azl397985856/leetcode/commits.atom) 来订阅我的仓库更新。
@@ -27,9 +33,9 @@
 
 这是我将我的所有公开的算法资料整理的一个电子书，全部题目信息中文化，以前会有一些英文描述，感谢 @CYL 的中文整理。
 
-**限时免费下载！后期随时可能收费**
+![](https://tva1.sinaimg.cn/large/0081Kckwly1gm3r7y4dt8j30zx0u0hdt.jpg)
 
-![](https://cdn.jsdelivr.net/gh/azl397985856/cdn/2020-10-17/1602928862442-image.png)
+**限时免费下载！后期随时可能收费**
 
 有些动图，在做成电子书（比如 pdf）的时候自然就变没了，如果需要看动图的， 可以去我的公众号《力扣加加》或者我的 leetcode 题解仓库看。
 
@@ -45,19 +51,18 @@
 
 或许是一个可以改变你刷题效率的浏览器扩展插件。
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gl88o9p60hj30u00njq3y.jpg)
+- 总结题型以及思路。
+- 内置各种常见刷题模板。
+- 更方便地看仓库题解，甚至可以基于公司筛选
+- 一键复制测试用例
+- 上班刷题必备的“摸鱼模式”
+- 等等
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gl88nldbwnj30pb09omyh.jpg)
+插件地址：https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US。
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gl88npuv1xj30mm0h23zy.jpg)
+不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。
 
-获取方式： 关注公众号《力扣加加》 回复插件。 之后会持续更新，大家关注即可。
-
-## :goal_net: &nbsp;非科学人士看过来
-
-如果是国内的非科学用户，可能部分图片会加载不出来。你可以使用 https://lucifer.ren/leetcode ，整站做了静态化，速度贼快！但是阅读体验可能一般。
-
-另外需要科学的，我推荐一个工具， 用户体验真的是好，用起来超简单， 提供一站式工具，包括网络检测工具，浏览器插件等，支持多种客户端（还有我最喜欢的 Switch 加速器），价格也不贵，基础套餐折算到月大约 11.2 块/月。地址：https://glados.space/landing/M9OHH-Q88JQ-DX72D-R04RN
+> 强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
 
 ## :exclamation:怎么刷 LeetCode？
 
@@ -123,15 +128,16 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 目前更新了 200 多道题解，加上专题涉及的题目，差不多有 **300 道**。
 
-- [高频考题（简单 73 题）](./collections/easy.md)
-- [高频考题（中等 118 题）](./collections/medium.md)
-- [高频考题（困难 32 题）](./collections/hard.md)
+- [高频考题合集（简单难度）](./collections/easy.md)
+- [高频考题合集（中等难度）](./collections/medium.md)
+- [高频考题合集（困难难度）](./collections/hard.md)
 
 ### 数据结构与算法的总结(22 篇)
 
 - [数据结构总览](./thinkings/basic-data-structure.md)
 - [链表专题](./thinkings/linked-list.md) 🆕
 - [树专题](./thinkings/tree.md) 🆕
+- [堆专题（上）](./thinkings/heap.md) 🆕
 <!-- - [基础算法](./thinkings/basic-algorithm.md) -->
 - [二叉树的遍历](./thinkings/binary-tree-traversal.md)
 - [动态规划](./thinkings/dynamic-programming.md)
@@ -220,19 +226,6 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
 
-## :information_desk_person:关于我
-
-擅长前端工程化，前端性能优化，前端标准化等，做过 .net， 搞过 Java，现在是一名前端工程师，我的个人博客：https://lucifer.ren/blog/
-
-我经常会在开源社区进行一些输出和分享，比较受欢迎的有 [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
-和 [我的第一本小书](https://github.com/azl397985856/automate-everything)。目前本人正在写一本关于《leetcode 题解》的实体书，感兴趣的可以通过邮箱或者微信联系我，我会在出版的第一时间通知你，并给出首发优惠价。有需要可以直接群里联系我，或者发送到我的个人邮箱 [azl397985856@gmail.com]。 新书详情戳这里：[《或许是一本可以彻底改变你刷 LeetCode 效率的题解书》](https://lucifer.ren/blog/2020/04/07/leetcode-book.intro/)
-
-点关注，不迷路。如果再给 ➕ 个星标就更棒啦！
-
-> 关注加加，星标加加～
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
-
 ## :gift_heart: 贡献
 
 - 如果有想法和创意，请提 [issue](https://github.com/azl397985856/leetcode/issues) 或者进群提
@@ -243,20 +236,6 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 ## :love_letter:鸣谢
 
 感谢为这个项目作出贡献的所有 [小伙伴](https://github.com/azl397985856/leetcode/graphs/contributors)
-
-## :moneybag: &nbsp;赞助
-
-### 微信
-
-<img width="300" src="./assets/donate-weixin.jpg">
-
-### 支付宝
-
-<img width="300" src="./assets/donate-zfb.jpg">
-
-### 捐赠
-
-[点击查看完整的捐赠列表](./donation.md)
 
 ## License
 
